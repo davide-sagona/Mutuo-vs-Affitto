@@ -1,6 +1,6 @@
-🏡 Mutuo vs Affitto 💸
+🏡💸 Mutuo vs Affitto, in Italia 🇮🇹
 ===================
-Tool python leggerissimo, completo e user-friendly che dà una risposta definitiva (almeno dal punto di vista finanziario) alla domanda "conviene fare il mutuo o stare in affitto?", basandosi sull'analisi dei **costi irrecuperabili** di entrambe le soluzioni.
+Un tool python leggerissimo, completo e user-friendly che dà una risposta definitiva (almeno dal punto di vista finanziario) alla domanda "in Italia, conviene fare il mutuo o stare in affitto?", basandosi sull'analisi dei **costi irrecuperabili** di entrambe le soluzioni.
 ### Cosa sono i costi irrecuperabili?
 
 Sono tutti quei costi che, una volta sostenuti, non si vanno a sommare al proprio patrimonio personale netto. (es. parcella notaio, IMU, affitto mensile, ecc.)
