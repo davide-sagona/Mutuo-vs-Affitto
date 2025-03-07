@@ -76,7 +76,7 @@ Affitto:
 # Versione Web (no installazione)
 ### Buon utilizzo :)
 
-Ecco il sito: [Mutuo vs Affitto Web](https://www.contifinanziari.pythonanywhere.com)
+Ecco il sito: [Mutuo vs Affitto Web](https://contifinanziari.pythonanywhere.com)
 
 ***
 📜 Licenza
