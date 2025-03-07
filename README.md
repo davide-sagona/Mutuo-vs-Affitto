@@ -74,8 +74,9 @@ Affitto:
 ***
 
 # Versione Web (no installazione)
-### Dato che al momento non accetto donazioni, se vuoi supportare gratuitamente i prossimi progetti disattiva l'AdBlocker, ma solo se non ti è troppo di disturbo. Grazie e buon utilizzo :)
-Ecco il sito: [Mutuo vs Affitto Web](contifinanziari.pythonanywhere.com)
+### Buon utilizzo :)
+
+Ecco il sito: [Mutuo vs Affitto Web](https://www.contifinanziari.pythonanywhere.com)
 
 ***
 📜 Licenza
