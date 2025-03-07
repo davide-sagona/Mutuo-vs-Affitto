@@ -34,9 +34,9 @@ Affitto:
 * * *
 
 # 📷 Screenshots
-![Interfaccia grafica (GUI) 1](images/imm1.png)
+![Interfaccia grafica (GUI) 1](/immagini/imm1.png)
 
-![Interfaccia grafica (GUI) 2](/images/imm2.png)
+![Interfaccia grafica (GUI) 2](/immagini/imm2.png)
 
 
 # 🛠️ Installazione locale (richiede Git)
