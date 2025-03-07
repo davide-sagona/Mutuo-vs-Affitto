@@ -7,6 +7,8 @@ Sono tutti quei costi che, una volta sostenuti, non si vanno a sommare al propri
 
 ### Cosa NON sono i costi irrecuperabili?
 Il rimborso di un prestito (escludendo la parte degli interessi) ad esempio non è un costo irrecuperabile, perchè va ad aumentare il nostro patrimonio netto, è da vedere più come un'accantonamento.
+### Esempio pratico:
+Gino paga 500€ al mese di affitto per 1 anno, alla fine avrà un patrimonio netto di -6000€. Andrea compra un orologio da 30000€ e lo paga in 1 anno a rate: ogni rata è 3000 euro, di cui 500€ sono interessi. Ipotizzando l'orologio abbia mantenuto il suo valore, dopo aver pagato le rate, avrà anche lui un patrimonio netto di -6000€ nonostante ne abbia pagati 36000! Questo perchè adesso ha anche un bene che vale 30000€ e che può vendere, infatti le uniche spese irrecuperabili che ha sostenuto sono state quelle relative agli interessi.
 ### Quali sono i costi irrecuperabili dell'affitto?
 Oltre ovviamente alle bollette e alle spese ordinarie (che non considererò, dato che sono uguali sia per la casa di proprietà, che per una in affitto) l'unico costo irrecuperabile è l'affitto stesso.
 
