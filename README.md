@@ -40,7 +40,14 @@ Affitto:
 
 ![Interfaccia grafica (GUI) 2](/immagini/imm2.png)
 
+***
 
+# Versione Web (no installazione)
+### Buon utilizzo :)
+
+Ecco il sito: [Mutuo vs Affitto Web](https://contifinanziari.pythonanywhere.com)
+
+***
 # 🛠️ Installazione locale (richiede Git)
 
 ## Clona il repository e crea un ambiente virtuale:
@@ -72,13 +79,6 @@ Affitto:
     
 ### Linux/MacOS 🐧🍏
     python3 main.py
-
-***
-
-# Versione Web (no installazione)
-### Buon utilizzo :)
-
-Ecco il sito: [Mutuo vs Affitto Web](https://contifinanziari.pythonanywhere.com)
 
 ***
 📜 Licenza
