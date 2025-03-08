@@ -43,18 +43,18 @@ Affitto:
 
 # 🛠️ Installazione locale (richiede Git)
 
-## Clona il repository:
-
-    git clone https://github.com/davide-sagona/Mutuo-vs-Affitto.git
-    cd Mutuo-vs-Affitto
-## Crea un ambiente virtuale python
+## Clona il repository e crea un ambiente virtuale:
 ### Windows 🪟🪟
 ##### Apri il CMD ed esegui:
+    git clone https://github.com/davide-sagona/Mutuo-vs-Affitto.git
+    cd Mutuo-vs-Affitto
     python -m venv ambiente_mutuovsaffitto
     ambiente_mutuovsaffitto\Scripts\activate.bat
     pip install -r requirements.txt
 
 ### Linux/MacOS 🐧🍏
+    git clone https://github.com/davide-sagona/Mutuo-vs-Affitto.git
+    cd Mutuo-vs-Affitto
     python3 -m venv ambiente_mutuovsaffitto
     source ambiente_mutuovsaffitto/bin/activate
     pip install -r requirements.txt
