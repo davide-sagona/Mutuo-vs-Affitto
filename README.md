@@ -29,10 +29,12 @@ Acquisto casa e/o Mutuo:
 - Parcella del notaio
 - IMU (in affitto non si pagherebbe)
 - Spese straordinarie casa (in affitto si pagano solo quelle ordinarie)
+- **EVENTUALI** mancati rendimenti finanziari derivanti dal fatto di aver comprato casa (ed eventualmente fatto il mutuo)
 
 Affitto:
 - Affitto
 - Aumento del canone di affitto per l'inflazione
+- **EVENTUALI** mancati rendimenti finanziari derivanti dal fatto di pagare un affitto maggiore rispetto alla rata del mutuo, non potendo investire il risparmio mensile che ne deriva
 * * *
 
 # Versione Web (no installazione)
@@ -42,7 +44,7 @@ Affitto:
 Ecco il sito: [Mutuo vs Affitto Web](https://contifinanziari.pythonanywhere.com)
 
 ***
-# 📷 Screenshots
+# 📷 Screenshots della versione locale
 ![Interfaccia grafica (GUI) 1](/immagini/imm1.png)
 
 ![Interfaccia grafica (GUI) 2](/immagini/imm2.png)
