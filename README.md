@@ -35,20 +35,21 @@ Affitto:
 - Aumento del canone di affitto per l'inflazione
 * * *
 
+# Versione Web (no installazione)
+## Ultimo aggiornamento: 13/03/2025
+### Buon utilizzo :)
+
+Ecco il sito: [Mutuo vs Affitto Web](https://contifinanziari.pythonanywhere.com)
+
+***
 # 📷 Screenshots
 ![Interfaccia grafica (GUI) 1](/immagini/imm1.png)
 
 ![Interfaccia grafica (GUI) 2](/immagini/imm2.png)
 
 ***
-
-# Versione Web (no installazione)
-### Buon utilizzo :)
-
-Ecco il sito: [Mutuo vs Affitto Web](https://contifinanziari.pythonanywhere.com)
-
-***
 # 🛠️ Installazione locale (richiede Git)
+## Ultimo aggiornamento: 13/03/2025
 
 ## Clona il repository e crea un ambiente virtuale:
 ### Windows 🪟🪟
