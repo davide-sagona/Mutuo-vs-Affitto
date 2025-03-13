@@ -29,7 +29,7 @@ Acquisto casa e/o Mutuo:
 - Parcella del notaio
 - IMU (in affitto non si pagherebbe)
 - Spese straordinarie casa (in affitto si pagano solo quelle ordinarie)
-- **EVENTUALI** mancati rendimenti finanziari derivanti dal fatto di aver comprato casa (ed eventualmente fatto il mutuo)
+- **EVENTUALI** mancati rendimenti finanziari derivanti dal fatto di aver comprato casa (ed eventualmente fatto il mutuo), non potendo investire il capitale impegnato o speso
 
 Affitto:
 - Affitto
