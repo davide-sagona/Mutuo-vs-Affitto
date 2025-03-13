@@ -276,8 +276,12 @@ def calcola():
     else:
         etichetta_intercetta.config(text="")
 def toggle_inflazione():
+    placeholder_frame.grid_propagate(False)
+    placeholder_frame.configure(height=40)  # imposta un'altezza fissa e modificala se necessario
+
     for widget in placeholder_frame.winfo_children():
         widget.destroy()
+    
     if var_inflazione.get():
         inflazione_label = ttk.Label(placeholder_frame, text="Inflazione annua media (%):")
         inflazione_label.grid(row=0, column=0, padx=5, pady=5, sticky="e")
@@ -286,7 +290,11 @@ def toggle_inflazione():
         inflazione_entry.insert(0, "2")
         inflazione_entry.grid(row=0, column=1, padx=5, pady=5, sticky="ew")
     else:
-        ttk.Label(placeholder_frame, text="").grid(row=0, column=0)
+        dummy_label = ttk.Label(placeholder_frame, text=" ", width=30)
+        dummy_label.grid(row=0, column=0, padx=5, pady=5, sticky="ew")
+    
+    #placeholder_frame.grid_propagate(True)
+
 
 #--------------------------------
 
