@@ -1,5 +1,4 @@
-# ATTENZIONE: questo progetto è stato interamente convertito in versione Web, la versione locale contiene inesattezze non corrette e potenziali bug, oltre a non avere numerosissime features invece presenti nel sito web. Ecco il link: [Mutuo vs Affitto Web](https://contifinanziari.pythonanywhere.com)
-### Ultimo aggiornamento: 18/03/2025
+# ATTENZIONE: questo progetto è stato interamente convertito in versione Web, la versione locale contiene inesattezze non corrette e potenziali bug, oltre a non avere numerosissime features invece presenti nel sito web. Ecco il link: [Mutuo vs Affitto Web](https://contifinanziari.pythonanywhere.com), ultimo aggiornamento: 18/03/2025
 
 🏡💸 Mutuo vs Affitto, in Italia 🇮🇹
 ===================
