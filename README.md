@@ -1,3 +1,6 @@
+# ATTENZIONE: questo progetto è stato interamente convertito in versione Web, la versione locale contiene inesattezze non corrette e potenziali bug, oltre a non avere numerosissime features invece presenti nel sito web. Ecco il link: [Mutuo vs Affitto Web](https://contifinanziari.pythonanywhere.com)
+### Ultimo aggiornamento: 18/03/2025
+
 🏡💸 Mutuo vs Affitto, in Italia 🇮🇹
 ===================
 Un tool python leggerissimo, completo e user-friendly che dà una risposta definitiva (almeno dal punto di vista finanziario) alla domanda "in Italia, conviene fare il mutuo o stare in affitto?", basandosi sull'analisi dei **costi irrecuperabili** di entrambe le soluzioni.
@@ -38,7 +41,7 @@ Affitto:
 * * *
 
 # Versione Web (no installazione)
-## Ultimo aggiornamento: 16/03/2025
+## Ultimo aggiornamento: 18/03/2025
 ### Buon utilizzo :)
 
 Ecco il sito: [Mutuo vs Affitto Web](https://contifinanziari.pythonanywhere.com)
