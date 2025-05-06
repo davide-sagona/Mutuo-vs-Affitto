@@ -43,7 +43,7 @@ Affitto:
 ## Ultimo aggiornamento: 06/05/2025
 ### Buon utilizzo :)
 
-Ecco il sito: [Mutuo vs Affitto Web](https://contifinanziari.pythonanywhere.com)
+Ecco il sito: [Mutuo vs Affitto Web](https://3eurotools.it)
 
 ***
 # 📷 Screenshots della versione locale
