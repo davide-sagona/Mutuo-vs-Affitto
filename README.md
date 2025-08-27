@@ -1,4 +1,4 @@
-# ATTENZIONE: questo progetto è stato interamente convertito in versione Web, la versione locale contiene inesattezze non corrette e potenziali bug, oltre a non avere numerosissime features invece presenti nel sito web. Ecco il link: [Mutuo vs Affitto Web](https://3eurotools.it), ultimo aggiornamento: 01/07/2025
+# ATTENZIONE: questo progetto è stato interamente convertito in versione Web, la versione locale contiene inesattezze non corrette e potenziali bug, oltre a non avere numerosissime features invece presenti nel sito web. Ecco il link: [Mutuo vs Affitto Web](https://3eurotools.it), ultimo aggiornamento: 27/08/2025
 
 🏡💸 Mutuo vs Affitto, in Italia 🇮🇹
 ===================
@@ -40,7 +40,7 @@ Affitto:
 * * *
 
 # Versione Web (no installazione)
-## Ultimo aggiornamento: 01/07/2025
+## Ultimo aggiornamento: 27/08/2025
 ### Buon utilizzo :)
 
 Ecco il sito: [Mutuo vs Affitto Web](https://3eurotools.it)
